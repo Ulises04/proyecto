@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 root root 4096 oct 15 03:46 .
+drwxr-xr-x 8 root root 4096 oct 15 03:42 ..
+-rw-r--r-- 1 root root  142 oct 15 03:46 d.txt
+-rw-r--r-- 1 root root    0 oct 15 03:46 e.txt
